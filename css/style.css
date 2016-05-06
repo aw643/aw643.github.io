@@ -203,6 +203,11 @@ header nav .menu li a{
 	float: left;
 	padding: 100px 0 100px 0;
 }
+.box-content.footer {
+	width: 100%;
+	float: left;
+	padding: 0px 0px 100px 0;
+}
 .box-content.about {
 	padding: 200px 0 100px 0;
 }
