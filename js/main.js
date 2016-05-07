@@ -10,7 +10,7 @@ $(document).ready(function ($) {
 
     try {
 
-        setTimeout(function () { $("#loader-wrapper").slideUp() }, 2000);
+        setTimeout(function () { $("#loader-wrapper").slideUp() }, 500);
     } catch (err) {
     }
 
