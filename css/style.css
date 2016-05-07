@@ -1114,14 +1114,15 @@ ul.other-list li:hover span{
 }
 
 /***FOOTER****/
-
+.footer-social {
+	padding-bottom:5px;
+}
 .footer-social a {
 	width: 25px;
     height: 25px;
     line-height: 25px !important;
     position: relative;
     margin: 0 6px;
-    padding-bottom: 10px;
     text-align: center;
     display: inline-block;
     color: #111;
