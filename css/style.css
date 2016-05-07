@@ -1121,7 +1121,7 @@ ul.other-list li:hover span{
     line-height: 25px !important;
     position: relative;
     margin: 0 6px;
-    padding-bottom: 5px;
+    padding-bottom: 10px;
     text-align: center;
     display: inline-block;
     color: #111;
